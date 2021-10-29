@@ -1,0 +1,16 @@
+{
+  "name": "ninjafood",
+  "version": "1.0.0",
+  "description": "\"Food app template\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daisyui": "^1.16.0",
+    "tailwindcss": "^2.2.17"
+  }
+}
